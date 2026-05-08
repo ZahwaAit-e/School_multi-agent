@@ -1,0 +1,9 @@
+# Ignore all API keys and environment variables everywhere!
+**/.env
+.env
+
+# Ignore the virtual environment folder (GitHub doesn't need this)
+.venv/
+
+# Ignore Python cache folders
+**/__pycache__/
